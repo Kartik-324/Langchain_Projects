@@ -31,7 +31,7 @@ The system is intelligent enough to generate accurate queries for given question
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/codebasics/langchain.git
+git clone https://github.com/Kartik-324/Langchain_Projects/langchain.git
 ```
 2.Navigate to the project directory:
 
@@ -72,4 +72,5 @@ streamlit run main.py
 - langchain_helper.py: This has all the langchain code
 - requirements.txt: A list of required Python packages for the project.
 - few_shots.py: Contains few shot prompts
+
 - .env: Configuration file for storing your Google API key.
